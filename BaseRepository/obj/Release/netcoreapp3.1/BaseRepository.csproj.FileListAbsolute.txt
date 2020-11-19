@@ -1,0 +1,12 @@
+I:\ERPMedical\ErpMedicalShop\BaseRepository\bin\Release\netcoreapp3.1\BaseRepository.deps.json
+I:\ERPMedical\ErpMedicalShop\BaseRepository\bin\Release\netcoreapp3.1\BaseRepository.runtimeconfig.json
+I:\ERPMedical\ErpMedicalShop\BaseRepository\bin\Release\netcoreapp3.1\BaseRepository.runtimeconfig.dev.json
+I:\ERPMedical\ErpMedicalShop\BaseRepository\bin\Release\netcoreapp3.1\BaseRepository.dll
+I:\ERPMedical\ErpMedicalShop\BaseRepository\bin\Release\netcoreapp3.1\BaseRepository.pdb
+I:\ERPMedical\ErpMedicalShop\BaseRepository\obj\Release\netcoreapp3.1\BaseRepository.csprojAssemblyReference.cache
+I:\ERPMedical\ErpMedicalShop\BaseRepository\obj\Release\netcoreapp3.1\BaseRepository.AssemblyInfoInputs.cache
+I:\ERPMedical\ErpMedicalShop\BaseRepository\obj\Release\netcoreapp3.1\BaseRepository.AssemblyInfo.cs
+I:\ERPMedical\ErpMedicalShop\BaseRepository\obj\Release\netcoreapp3.1\BaseRepository.csproj.CoreCompileInputs.cache
+I:\ERPMedical\ErpMedicalShop\BaseRepository\obj\Release\netcoreapp3.1\BaseRepository.dll
+I:\ERPMedical\ErpMedicalShop\BaseRepository\obj\Release\netcoreapp3.1\BaseRepository.pdb
+I:\ERPMedical\ErpMedicalShop\BaseRepository\obj\Release\netcoreapp3.1\BaseRepository.genruntimeconfig.cache
